@@ -1,6 +1,6 @@
 2FA 공부 참곰자료 
 https://github.com/Az0x7/vulnerability-Checklist/blob/main/2FA%20Bypass/2FA%20bypass.md
-
+https://github.com/Az0x7/vulnerability-Checklist/blob/main/Authentication/authentication.md
 
 2FA 설명
 

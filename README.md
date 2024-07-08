@@ -1,3 +1,7 @@
+2FA 공부 참곰자료 
+https://github.com/Az0x7/vulnerability-Checklist/blob/main/2FA%20Bypass/2FA%20bypass.md
+
+
 2FA 설명
 
 Two-factor authentication, or 2FA, is a safety measure that requires users to confirm their identity using two separate authentication factors. Usually, these factors consist of two things: something the person possesses (like a security token) and something they know (like a password). By making it more difficult for unauthorized users to access accounts, even if they have the password, it provides another layer of security. By using this technique, the potential for password theft or breaches leading to illegal access is reduced.
